@@ -1,0 +1,8 @@
+D:\Desktopp\MaZeRunner\MaZeRunner\bin\Release\MaZeRunner.exe
+D:\Desktopp\MaZeRunner\MaZeRunner\bin\Release\MaZeRunner.pdb
+D:\Desktopp\MaZeRunner\MaZeRunner\obj\x86\Release\MaZeRunner.Properties.Resources.resources
+D:\Desktopp\MaZeRunner\MaZeRunner\obj\x86\Release\MaZeRunner.csproj.GenerateResource.Cache
+D:\Desktopp\MaZeRunner\MaZeRunner\obj\x86\Release\MaZeRunner.exe
+D:\Desktopp\MaZeRunner\MaZeRunner\obj\x86\Release\MaZeRunner.pdb
+D:\Desktopp\EnCRYPT\Maze Project\MaZeRunner\MaZeRunner\obj\x86\Release\MaZeRunner.exe
+D:\Desktopp\EnCRYPT\Maze Project\MaZeRunner\MaZeRunner\obj\x86\Release\MaZeRunner.pdb

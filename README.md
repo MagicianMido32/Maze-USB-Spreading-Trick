@@ -48,5 +48,5 @@ Also if the victim realized that the usb is infected he won't be tricked by othe
 
 It's possible however to add a simple ransomware that encrypts the victims files while infecting the usb and decrypt them when the spreading artifact is launched on another machine.
 
-This method is extremely effective while pentesting organization that has no inter-network between its pcs and rely only on usb thumb stick to share files together (lost of organizations actually) 
+This method is extremely effective while pentesting organization that has no inter-network between its pcs and rely only on usb thumb stick to share files together (lots of organizations actually) 
 
